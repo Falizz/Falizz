@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">’m Fábio, a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)<br><br>Sou Fábio, estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa).</p>
+<p align="left">I’m Fábio, a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)<br><br>Sou Fábio, estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa).</p>
 
 ###
 
