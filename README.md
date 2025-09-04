@@ -1,3 +1,19 @@
+<h1 align="left">Hello World!</h1>
+
+###
+
+<p align="left">’m Fábio, a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)<br><br>Sou Fábio, estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa).</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">I started my Software Engineering degree in the second semester of 2023.<br>I’m passionate about UX/UI, front-end development, and competitive programming, particularly solving challenges on Beecrowd.<br><br>Iniciei minha graduação em Engenharia de Software no segundo semestre de 2023.<br>Tenho interesse em UX/UI, desenvolvimento front-end e programação competitiva, especialmente resolvendo desafios no Beecrowd.</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
