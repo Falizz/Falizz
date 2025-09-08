@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I started my Software Engineering degree in the second semester of 2023.<br>I’m passionate about UX/UI, front-end development, and competitive programming, particularly solving challenges on Beecrowd.<br><br>Iniciei minha graduação em Engenharia de Software no segundo semestre de 2023.<br>Tenho interesse em UX/UI, desenvolvimento front-end e programação competitiva, especialmente resolvendo desafios no Beecrowd.</p>
+<p align="left">Throughout the course, I discovered a strong interest in UX/UI. Since childhood, I have always been fascinated by creating designs from scratch — I enjoyed watching a blank canvas take shape and evolve into something I had imagined. Back then, I would even look for free online Photoshop courses just to satisfy this creative drive.<br>As I progressed in college, I also developed a passion for competitive programming.<br>I enjoy the challenge of solving logical problems with code, as well as the frustration of not understanding why a solution isn’t accepted (sometimes simply because of a missing “\n”).<br>Iniciei minha graduação em Engenharia de Software no segundo semestre de 2023.<br>Tenho interesse em UX/UI, desenvolvimento front-end e programação competitiva, especialmente resolvendo desafios no Beecrowd.</p>
 
 ###
 
