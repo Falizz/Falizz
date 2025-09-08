@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Fábio, a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)<br><br>Sou Fábio, estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa).</p>
+<p align="left">I am a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa). I started my degree in the second semester of 2023, with an expected graduation in the first semester of 2027.<br><br>Sou estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa). Iniciei a graduação em 2023.2 e a expectativa de conclusão é para 2027.1.</p>
 
 ###
 
