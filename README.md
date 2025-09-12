@@ -43,7 +43,7 @@ Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive intere
 ###
 
 <div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,wordpress,figma,)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,wordpress,figma" alt="My Skills">
 </div>
 
 ###
