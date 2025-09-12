@@ -3,8 +3,6 @@
 ###
 
 <p align="left">
-I am a 5th-semester Software Engineering student at IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa). I started my degree in the second semester of 2023, with an expected graduation in the first semester of 2027.
-<br><br>
 Sou estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa). Iniciei a graduação em 2023.2 e a expectativa de conclusão é para 2027.1.
 </p>
 
@@ -15,8 +13,6 @@ Sou estudante do 5º semestre de Engenharia de Software no IDP (Instituto Brasil
 ###
 
 <p align="left">
-Throughout the course, I discovered a strong interest in UX/UI. Since childhood, I have always been fascinated by creating designs from scratch — I enjoyed watching a blank canvas take shape and evolve into something I had imagined. Back then, I would even look for free online Photoshop courses just to satisfy this creative drive. As I progressed in college, I also developed a passion for competitive programming. I enjoy the challenge of solving logical problems with code, as well as the frustration of not understanding why a solution isn’t accepted (sometimes simply because of a missing “\n”).
-<br><br>
 Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive interesse em criar designs do zero — gostava de ver um painel em branco tomando forma até se transformar em algo que eu havia imaginado. Naquela época, chegava a procurar cursos gratuitos de Photoshop online apenas para alimentar esse desejo de criação. Com o avanço da faculdade, também me apaixonei por programação competitiva. Gosto da ideia de resolver problemas lógicos com código, além do desafio de lidar com a frustração de não entender por que uma resposta não é aceita (às vezes apenas por falta de um simples “\n”).
 </p>
 
@@ -27,13 +23,7 @@ Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive intere
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c, cpp, py, java" alt="Competitive Programming Skills">
 </div>
 
 ###
@@ -43,7 +33,7 @@ Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive intere
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,wordpress,figma" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,wordpress,figma" alt="Front-End Skills">
 </div>
 
 ###
