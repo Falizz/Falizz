@@ -19,7 +19,7 @@ Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive intere
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java" alt="Competitive Programming Skills">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java" alt="Competitive Programming Skills">
 </div>
 
 ###
@@ -39,7 +39,7 @@ Dentro do curso, descobri afinidade com UX/UI. Desde criança sempre tive intere
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,flask,mysql,mongodb,cassandra,docker,git,github,vscode,visualstudio,bash,arduino,raspberrypi,ubuntu,windows,linux,md" alt="Outros">
+  <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb,cassandra,docker,git,github,vscode,visualstudio,bash,arduino,raspberrypi,ubuntu,windows,linux,md" alt="Outros">
 </div>
 
 ###
